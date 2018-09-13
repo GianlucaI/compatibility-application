@@ -1,0 +1,26 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "FriendFinder Created during Week 13 of Rutgers Coding Bootcamp. The goal was to create a Friend Finder app (essentially a dating app but for friends) using Node and Express servers. The user enters the page that leads to a survey. When the user submits the survey, they are matched with a \"friend\" that has the closest match to their personality.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianlucaI/compatibility-application.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GianlucaI/compatibility-application/issues"
+  },
+  "homepage": "https://github.com/GianlucaI/compatibility-application#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
