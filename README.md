@@ -15,6 +15,11 @@ npm install express
 npm install body-parser
 npm install path
 
+## Launch the Applicattion
+
+Click the following link to launch the app
+https://compatibility-application.herokuapp.com/
+
 ## Getting Started
 
 To run application on local machine without going to website. Once the repo is cloned you will need to run the following command in the terminal:
